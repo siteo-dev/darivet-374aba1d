@@ -125,7 +125,7 @@ export default function DemoBanner() {
                       <span className="text-zinc-500">/month</span>
                     </div>
                     <div className="inline-flex items-center py-1 mb-4">
-                      <span className="text-xs tracking-wider font-medium px-1.5 py-0.5 rounded-full" style={{backgroundColor: `rgba(${ACCENT_RGB}, 0.15)`, color: ACCENT }}>+199&euro; <span className='opacity-50'> setup (one-time)</span></span>
+                      <span className="text-xs tracking-wider font-medium px-1.5 py-0.5 rounded-full" style={{backgroundColor: `rgba(${ACCENT_RGB}, 0.15)`, color: ACCENT }}>+100&euro; <span className='opacity-50'> setup (one-time)</span></span>
                     </div>
                     <div className="space-y-2.5 sm:space-y-3 mb-5 sm:mb-6">
                       {features.map((f) => (
@@ -149,7 +149,7 @@ export default function DemoBanner() {
                     </div>
 
                     <div className="inline-flex items-center py-1 mb-4">
-                      <span className="text-xs tracking-wider font-medium px-1.5 py-0.5 rounded-full" style={{backgroundColor: `rgba(${ACCENT_RGB}, 0.15)`, color: ACCENT }}>+199&euro; <span className='opacity-50'> setup (one-time)</span></span>
+                      <span className="text-xs tracking-wider font-medium px-1.5 py-0.5 rounded-full" style={{backgroundColor: `rgba(${ACCENT_RGB}, 0.15)`, color: ACCENT }}>+100&euro; <span className='opacity-50'> setup (one-time)</span></span>
                     </div>
 
                     <div className="space-y-2.5 sm:space-y-3 mb-5 sm:mb-6">
